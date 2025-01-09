@@ -1,0 +1,5 @@
+﻿  Project2-Bank Extension.cpp
+C:\C++\Level2 - 07\Project2-Bank Extension\Project2-Bank Extension\Project2-Bank Extension.cpp(28,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\C++\Level2 - 07\Project2-Bank Extension\Project2-Bank Extension\Project2-Bank Extension.cpp(328,1): warning C4715: 'DeleteClientByAccoutNumber': not all control paths return a value
+C:\C++\Level2 - 07\Project2-Bank Extension\Project2-Bank Extension\Project2-Bank Extension.cpp(361,1): warning C4715: 'UpdateClientByAccoutNumber': not all control paths return a value
+  Project2-Bank Extension.vcxproj -> C:\C++\Level2 - 07\Project2-Bank Extension\Project2-Bank Extension\x64\Debug\Project2-Bank Extension.exe
